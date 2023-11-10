@@ -1,7 +1,7 @@
 # url-rotator
 A WordPress plugin for assigning unlimited # of URLs to link or a button, which will be randomly rotated
 
-============================================================================================
+===========================================================================
 
 <b>Usage:</b><br>
 Settings -> URL Rotator
@@ -12,7 +12,7 @@ Settings -> URL Rotator
 - Rotation class settings<br>
   --> Insert HTML element's class to be used to assign URL(s).
 
-============================================================================================
+===========================================================================
 
 <b>Helper:</b><br>
 If you want to assign a class to header menu item link, you can use this code in your functions.php file or as mu-plugin.<br>
