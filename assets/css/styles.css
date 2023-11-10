@@ -1,0 +1,14 @@
+/* Style definitions for the plugin */
+.url_string {
+    min-width: 228px;
+    display: inline-block;
+    margin: 1px;
+}
+
+.manage_url_form {
+    margin: 5px 0 5px 0;
+}
+
+.sections {
+    margin-bottom: 50px;
+}
